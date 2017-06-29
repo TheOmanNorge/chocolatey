@@ -6,7 +6,7 @@
 About
 --------------------------------
 
-### What is Chocolatey? :)
+### What is Chocolatey?
 
 **Chocolatey** it's an open source content management system made with php. It uses Laravel's Lumen Micro Framework to handle all the API Requests and uses Habbo's Angular Module for rendering all views and requests.
 
